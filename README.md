@@ -2,7 +2,7 @@
 
 Практика на основе серии лекций по [Node.js от Ильи Кантора](http://learn.javascript.ru/screencast/nodejs)
 
-Part 2 – видео #7-#...:
+Part 2 – видео #7-#13:
 
 * Ведение в npm / установка пакетов
 * Структура npm-пакета / свойства package.json
